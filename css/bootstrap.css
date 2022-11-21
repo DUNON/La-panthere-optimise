@@ -1435,9 +1435,9 @@ img {
 .img-responsive,
 .thumbnail a>img,
 .thumbnail>img {
-    display: inline-block;
+    display: block;
     max-width: 100%;
-    height: 300px
+    height: auto
 }
 
 .img-rounded {
