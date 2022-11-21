@@ -1622,8 +1622,7 @@ h6 {
 }
 
 p {
-    margin: 0 0 10px;
-    font-size: 12px
+    margin: 0 0 10px
 }
 
 .lead {
@@ -5266,7 +5265,6 @@ textarea.input-group-sm>.input-group-btn>.btn {
         -webkit-box-shadow: none;
         box-shadow: none
     }
-    
     .navbar-nav .open .dropdown-menu .dropdown-header,
     .navbar-nav .open .dropdown-menu>li>a {
         padding: 5px 15px 5px 25px
